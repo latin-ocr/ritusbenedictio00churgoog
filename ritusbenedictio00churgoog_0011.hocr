@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ritusbenedictio00churgoog_0011.png"; bbox 0 0 3090 5094; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 252 2036 850 2121">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 128 2005 850 2148">
+     <span class='ocr_line' id='line_1_1' title="bbox 252 2036 850 2121; baseline -0.001 -19.172"><span class='ocrx_word' id='word_1_1' title='bbox 252 2036 501 2121; x_wconf 79' lang='lat' dir='ltr'><strong>Ratisbonae,</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 522 2036 575 2101; x_wconf 76' lang='lat' dir='ltr'><strong>die</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 597 2038 628 2103; x_wconf 83' lang='lat'><strong>9.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 650 2036 732 2101; x_wconf 85' lang='lat' dir='ltr'><strong>Julii</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 756 2036 850 2101; x_wconf 79' lang='lat'>1887.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 630 2326 1124 2413">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 630 2326 1194 2413">
+     <span class='ocr_line' id='line_1_2' title="bbox 630 2326 1124 2413; baseline -0.007 -13"><span class='ocrx_word' id='word_1_6' title='bbox 630 2356 640 2383; x_wconf 75' lang='lat'><strong><em>⁴</em></strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 746 2326 804 2401; x_wconf 90' lang='lat' dir='ltr'><strong>M.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 826 2326 1051 2413; x_wconf 89' lang='lat' dir='ltr'>Dandl,·=</span> <span class='ocrx_word' id='word_1_9' title='bbox 1109 2334 1124 2357; x_wconf 88' lang='grc'><strong>’·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 415 4316 1215 4389">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 415 4316 1215 4389">
+     <span class='ocr_line' id='line_1_3' title="bbox 415 4316 1215 4389; baseline -0.006 -16"><span class='ocrx_word' id='word_1_10' title='bbox 415 4320 486 4387; x_wconf 84' lang='lat' dir='ltr'><strong>Quae</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 504 4320 565 4389; x_wconf 86' lang='lat' dir='ltr'><strong>jura</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 583 4334 600 4373; x_wconf 85' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_13' title='bbox 617 4320 678 4389; x_wconf 78' lang='lat' dir='ltr'><strong>lege</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 694 4326 768 4383; x_wconf 74' lang='lat' dir='ltr'><strong>sunt,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 787 4318 994 4389; x_wconf 79' lang='lat' dir='ltr'>Typographus</span> <span class='ocrx_word' id='word_1_16' title='bbox 1010 4316 1064 4371; x_wconf 75' lang='lat' dir='ltr'>sibi</span> <span class='ocrx_word' id='word_1_17' title='bbox 1081 4320 1215 4369; x_wconf 79' lang='lat' dir='ltr'>reservat.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1550 5094">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1550 5094">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1550 5094; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 0 0 1550 5094; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
